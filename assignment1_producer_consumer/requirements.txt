@@ -1,0 +1,20 @@
+# Assignment 1: Producer-Consumer Pattern
+# ========================================
+# No external dependencies required - uses Python standard library only
+
+# Standard library modules used:
+# - threading     : Thread synchronization, Condition variables
+# - collections   : deque for queue implementation
+# - typing        : Type hints (Tuple, Any, Optional, List, Callable)
+# - time          : Delays in demos
+# - logging       : Optional logging support
+
+# Minimum Python version: 3.8+
+
+# To run:
+#   python3 run_assignment1.py
+
+# To test:
+#   python3 -m unittest assignment1_producer_consumer.tests.test_blocking_queue -v
+#   python3 -m unittest assignment1_producer_consumer.tests.test_producer -v
+

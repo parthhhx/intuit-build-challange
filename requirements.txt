@@ -1,0 +1,9 @@
+# Intuit Build Challenge - Requirements
+# ======================================
+# Minimum Python version: 3.8+
+
+# Both assignments use Python standard library only.
+# See individual assignment folders for specific requirements:
+#   - assignment1_producer_consumer/requirements.txt
+#   - assignment2_data_analysis/requirements.txt (to be added)
+

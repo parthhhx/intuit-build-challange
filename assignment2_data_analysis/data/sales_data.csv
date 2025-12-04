@@ -1,0 +1,42 @@
+transaction_id,date,product_name,category,quantity,unit_price,region,salesperson
+TXN001,2024-01-15,Laptop Pro,Electronics,2,1299.99,North,Alice Johnson
+TXN002,2024-01-15,Wireless Mouse,Electronics,5,29.99,South,Bob Smith
+TXN003,2024-01-16,Office Chair,Furniture,3,249.99,North,Alice Johnson
+TXN004,2024-01-16,Standing Desk,Furniture,1,599.99,East,Carol Davis
+TXN005,2024-01-17,USB-C Hub,Electronics,10,49.99,West,David Wilson
+TXN006,2024-01-17,Monitor 27",Electronics,4,349.99,North,Alice Johnson
+TXN007,2024-01-18,Keyboard Mechanical,Electronics,6,129.99,South,Bob Smith
+TXN008,2024-01-18,Desk Lamp,Furniture,8,45.99,East,Carol Davis
+TXN009,2024-01-19,Webcam HD,Electronics,3,89.99,West,David Wilson
+TXN010,2024-01-19,Filing Cabinet,Furniture,2,199.99,North,Eve Martinez
+TXN011,2024-01-20,Laptop Pro,Electronics,1,1299.99,South,Bob Smith
+TXN012,2024-01-20,Ergonomic Mouse,Electronics,7,79.99,East,Carol Davis
+TXN013,2024-01-21,Bookshelf,Furniture,2,149.99,West,David Wilson
+TXN014,2024-01-21,Printer Laser,Electronics,2,399.99,North,Alice Johnson
+TXN015,2024-01-22,Office Chair,Furniture,4,249.99,South,Frank Lee
+TXN016,2024-01-22,Headphones,Electronics,5,199.99,East,Carol Davis
+TXN017,2024-01-23,Standing Desk,Furniture,2,599.99,West,David Wilson
+TXN018,2024-01-23,Wireless Mouse,Electronics,12,29.99,North,Eve Martinez
+TXN019,2024-01-24,Monitor 27",Electronics,3,349.99,South,Frank Lee
+TXN020,2024-01-24,Desk Organizer,Furniture,6,34.99,East,Carol Davis
+TXN021,2024-01-25,Laptop Pro,Electronics,3,1299.99,West,David Wilson
+TXN022,2024-01-25,USB-C Hub,Electronics,8,49.99,North,Alice Johnson
+TXN023,2024-01-26,Office Chair,Furniture,5,249.99,South,Bob Smith
+TXN024,2024-01-26,Keyboard Mechanical,Electronics,4,129.99,East,Frank Lee
+TXN025,2024-01-27,Webcam HD,Electronics,6,89.99,West,David Wilson
+TXN026,2024-01-27,Filing Cabinet,Furniture,3,199.99,North,Eve Martinez
+TXN027,2024-01-28,Desk Lamp,Furniture,10,45.99,South,Bob Smith
+TXN028,2024-01-28,Headphones,Electronics,4,199.99,East,Carol Davis
+TXN029,2024-01-29,Bookshelf,Furniture,1,149.99,West,Frank Lee
+TXN030,2024-01-29,Printer Laser,Electronics,1,399.99,North,Alice Johnson
+TXN031,2024-01-30,Standing Desk,Furniture,3,599.99,South,Bob Smith
+TXN032,2024-01-30,Ergonomic Mouse,Electronics,9,79.99,East,Carol Davis
+TXN033,2024-01-31,Monitor 27",Electronics,2,349.99,West,David Wilson
+TXN034,2024-01-31,Desk Organizer,Furniture,4,34.99,North,Eve Martinez
+TXN035,2024-02-01,Laptop Pro,Electronics,2,1299.99,South,Frank Lee
+TXN036,2024-02-01,Wireless Mouse,Electronics,15,29.99,East,Carol Davis
+TXN037,2024-02-02,Office Chair,Furniture,3,249.99,West,David Wilson
+TXN038,2024-02-02,USB-C Hub,Electronics,6,49.99,North,Alice Johnson
+TXN039,2024-02-03,Keyboard Mechanical,Electronics,8,129.99,South,Bob Smith
+TXN040,2024-02-03,Filing Cabinet,Furniture,2,199.99,East,Frank Lee
+
