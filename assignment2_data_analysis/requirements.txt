@@ -1,0 +1,24 @@
+# Assignment 2: CSV Data Analysis with Functional Programming
+# ===========================================================
+# No external dependencies required - uses Python standard library only
+
+# Standard library modules used:
+# - csv           : CSV file parsing
+# - functools     : reduce() for aggregations
+# - itertools     : groupby operations
+# - collections   : defaultdict for grouping
+# - dataclasses   : SalesRecord model
+# - typing        : Type hints
+# - pathlib       : File path handling
+# - datetime      : Date handling
+
+# Minimum Python version: 3.8+
+
+# To run:
+#   python3 run_assignment2.py
+
+# To test:
+#   python3 -m unittest assignment2_data_analysis.tests.test_models -v
+#   python3 -m unittest assignment2_data_analysis.tests.test_data_loader -v
+#   python3 -m unittest assignment2_data_analysis.tests.test_analysis -v
+
