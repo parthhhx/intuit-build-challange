@@ -38,8 +38,6 @@ python3 -m unittest assignment1_producer_consumer.tests.test_producer -v
 python3 -m unittest assignment2_data_analysis.tests.test_models -v
 python3 -m unittest assignment2_data_analysis.tests.test_analysis -v
 
-# Run all tests
-python3 -m unittest discover -v
 ```
 
 ## Project Structure
